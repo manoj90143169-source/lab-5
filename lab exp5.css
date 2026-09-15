@@ -1,0 +1,13 @@
+.container{
+    width: 200px;
+    padding:300px;
+    margin:50px;
+    text-align: center;
+    background-color: #ff0000;
+}
+.container h1{
+    color: blue;
+}
+.container p{
+    color: white;
+}
